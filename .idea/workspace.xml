@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="735eec4a-3856-40f5-a13b-e73d0e45738f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m0OZCv8buR3Lj6riyIRa9KhoCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/front" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/front" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/template/front" />
+      <recent name="$PROJECT_DIR$/app/models/front" />
+      <recent name="$PROJECT_DIR$/app/views/front" />
+      <recent name="$PROJECT_DIR$/public/assets/front/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735eec4a-3856-40f5-a13b-e73d0e45738f" name="Default Changelist" comment="" />
+      <created>1608627095030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608627095030</updated>
+      <workItem from="1608627096107" duration="10811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="249" width="513" height="602" key="NewPhpClassDialog" timestamp="1608628498635">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="698" y="249" width="513" height="602" key="NewPhpClassDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1608628498635" />
+    <state x="755" y="473" width="379" height="159" key="NewPhpFileDialog" timestamp="1608639042123">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="755" y="473" width="379" height="159" key="NewPhpFileDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1608639042123" />
+    <state x="526" y="153" width="857" height="795" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608632601028">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="526" y="153" width="857" height="795" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1608632601028" />
+    <state x="624" y="254" key="run.anything.popup" timestamp="1608634010446">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="624" y="254" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1608634010446" />
+  </component>
+</project>
